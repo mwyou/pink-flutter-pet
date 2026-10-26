@@ -1,7 +1,7 @@
 {
-  "id": "flutter-pink-clear",
-  "displayName": "Flutter Pink Clear（稳定眼神版）",
+  "id": "pink-flutter-pet",
+  "displayName": "Pink Flutter Pet",
   "description": "A crisp pink butterfly with bold raspberry outlines, flat cherry-blossom wings and expressive eyes.",
-  "spritesheetPath": "spritesheet-stable-eyes.webp",
+  "spritesheetPath": "spritesheet.webp",
   "spriteVersionNumber": 2
 }
